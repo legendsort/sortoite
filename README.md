@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/magicpaIm/count.svg" />
 </p>
 Here are some ideas to get you started:
 
