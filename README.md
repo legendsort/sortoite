@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there I am full stack developer & grandmaster of codeforces👋
 
-<!--
-**magicpaIm/magicpaIm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
