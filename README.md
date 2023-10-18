@@ -1,4 +1,4 @@
-### Hi there, I am full stack developer & grandmaster of codeforces👋
+### Hi there, I am a full stack developer & grandmaster of codeforces👋
 
 <p align="center"> 
   Visitor count<br>
