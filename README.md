@@ -1,4 +1,4 @@
-### Hi there I am full stack developer & grandmaster of codeforces👋
+### Hi there, I am full stack developer & grandmaster of codeforces👋
 
 <p align="center"> 
   Visitor count<br>
@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI.
 - 🤔 I’m looking for help with startup companies
 - 💬 Ask me about Datastructure and Algorithm.
-- 📫 How to reach me: zachatatem@gmail.com
 - 😄 Pronouns: He/Him
